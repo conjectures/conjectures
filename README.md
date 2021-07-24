@@ -1,4 +1,4 @@
-### Moved to [GitLab](www.gitlab.com/conjectures)
+### Moved to [GitLab](https://gitlab.com/conjectures)
 
 <!--
 **conjectures/conjectures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
